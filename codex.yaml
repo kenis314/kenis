@@ -1,0 +1,4 @@
+version: 1
+image: universal
+run:
+  - pip install -r requirements.txt
